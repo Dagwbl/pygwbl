@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: pygwbl
+Version: 1.9
+Summary: Dagwbl's personal tool set.
+Home-page: https://github.com/Dagwbl/pygwbl
+Author: Dagwbl
+Author-email: Dagwbl@qq.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Dagwbl/pygwbl/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Dagwbl's personal tool set.
+
+# pygwbl
+
+The pypi module is Dagwbl's personal tool set.  
+
+
+It offer the function that converting svg to emf.  
+
+
+Dagwbl's quickTools, You must download Inkscape before using it.
+
+

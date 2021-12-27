@@ -1,2 +1,11 @@
+Dagwbl's personal tool set.
+
 # pygwbl
- Dagwbl's quickTools
+
+The pypi module is Dagwbl's personal tool set.  
+
+
+It offer the function that converting svg to emf.  
+
+
+Dagwbl's quickTools, You must download Inkscape before using it.
